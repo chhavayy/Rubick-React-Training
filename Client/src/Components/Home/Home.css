@@ -1,0 +1,12 @@
+.home {
+    min-height: 505px;
+    padding: 24px;
+    background: lightgray;
+  }
+  .home  h2 {
+    color: blue;
+  }
+  .home p {
+    color: grey;
+    font-weight: 500;
+  }

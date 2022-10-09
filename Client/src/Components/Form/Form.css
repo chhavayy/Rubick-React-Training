@@ -1,0 +1,30 @@
+.form {
+    background-color: lightgray;
+    padding: 50px 50px;
+}
+.ant-form-item-label, .ant-form-item-input label{
+   font-size: 13px;
+}
+div input ,switch{
+    display: inline-block;
+}
+.Buttons button, button{
+    display: inline;
+}
+Button{
+    background-color:'blue';
+    border-radius: '25%';
+}
+.ant-form-item-input  {
+    width: 10px;
+}
+.first {
+    align-items: flex-start;
+    display: inline;
+}
+switch :checked{
+    color-scheme: 'green,orange';
+}
+.Buttons .ant-form-item {
+    display: inline;
+}

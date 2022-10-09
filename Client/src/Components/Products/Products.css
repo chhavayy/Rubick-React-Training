@@ -1,0 +1,29 @@
+.products .site-product-content{
+ background: lightgray;
+    padding: 24px 0px;
+}
+.products .site-product-content #prod{
+    display: flex;
+  justify-content: space-between;
+  padding-top: 0%;
+}
+.products .site-product-content #table{
+    background: white;
+    
+    min-width: 900px;
+       padding: 24px;
+}
+.site-product-content #prod h2 {
+    margin-top: 0%;
+}
+.products {
+    margin-top: 0%;
+    min-height: 505px;
+    background-color: lightgray;
+}
+#prod a{
+    display: inline;
+    align-items: left;
+    margin-right: 72%;
+    border-radius: 50%;
+}
